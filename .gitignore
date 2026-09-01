@@ -82,3 +82,6 @@ docs/*-plan.md
 
 # Machine-local toolchain overrides
 local-config.cmake
+
+# --- macOS port: build artifacts, ROMs and local machine state ---
+*.app/
